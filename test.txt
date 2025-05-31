@@ -1,0 +1,3 @@
+This is a normal line.
+Here is ZWSP → a​b ← (invisible between a and b)
+And this line ends with BOM: ﻿end
